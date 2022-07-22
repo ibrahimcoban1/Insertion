@@ -1,4 +1,6 @@
 # Insertion
+www.patika.dev
+
 Insertion Sort Projesi
 # Insertion Sort Çözüm
  * [22,27,16,2,18,6] -> Insertion Sort
