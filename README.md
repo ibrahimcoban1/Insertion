@@ -10,8 +10,8 @@ Insertion Sort Projesi
  * Worst Case :O(n²)
  * Avarage Case:O(n²)
 # Time Complexity
- *Sıralanmış dizi : [2,6,16,18,22,27]
- *Dizi Avarage Case kapsamına girer
+ * Sıralanmış dizi : [2,6,16,18,22,27]
+ * Dizi Avarage Case kapsamına girer
 # [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
 
   * [2,3,5,8,7,9,4,15,6]
